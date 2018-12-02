@@ -1,0 +1,47 @@
+body{
+	background-color: #FAEEE0 !important; 
+	background: url(hanger.svg) no-repeat;
+	background-position: 0px 20%;
+}
+.container{
+	text-align: center;
+}
+nav{
+	background-color: #54C2D1;
+}
+a{
+	color: white;
+}
+.navbar-nav{
+	padding-left: 31%;
+
+}
+footer{
+	
+}
+.btn.btn-primary.btn-lg.active{
+	background-color: #54C2D1;
+	border-color: #54C2D1;
+	width: 220px;
+	height: 100px;
+	text-align: center;
+	font-size: 50px;
+}
+img{
+	padding-bottom: 10%;
+}
+.login-text{
+	border:4px solid;
+	padding-top: 10%; 
+	padding-bottom: 10%;
+	border-color:#54C2D1;
+}
+.bottom{
+	background-color: #54C2D1;
+	padding-top: 20%;
+	color: white;
+	text-align: center;
+}
+.log{
+	padding-top: 10%;
+}

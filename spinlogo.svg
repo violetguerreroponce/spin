@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 233.2 233.2">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.758;
+      }
+
+      .cls-2 {
+        fill: #a4ffff;
+      }
+
+      .cls-3 {
+        fill: #7cf1f7;
+      }
+
+      .cls-4 {
+        fill: #4edae5;
+      }
+
+      .cls-5 {
+        fill: aqua;
+        stroke: #999;
+        opacity: 0.18;
+      }
+
+      .cls-5, .cls-7 {
+        stroke-miterlimit: 10;
+        stroke-width: 7px;
+      }
+
+      .cls-6 {
+        fill: #fff;
+        opacity: 0.26;
+      }
+
+      .cls-7 {
+        fill: none;
+        stroke: #707070;
+      }
+    </style>
+  </defs>
+  <g id="Group_667" data-name="Group 667" class="cls-1" transform="translate(0)">
+    <g id="Group_666" data-name="Group 666">
+      <g id="Group_665" data-name="Group 665">
+        <path id="Path_361" data-name="Path 361" class="cls-2" d="M116.6,226.8a110.147,110.147,0,0,0,98.5-60.7c-36.1,8.4-78.1,6-111.3-30.3-30.3-33.2-64.4-44.8-94-47a110.419,110.419,0,0,0,106.8,138Z"/>
+        <path id="Path_362" data-name="Path 362" class="cls-3" d="M152.8,115.8c42.5-10,62.6,15.6,70.2,29.6A110.281,110.281,0,1,0,9.8,88.9c29.6,2.2,63.6,13.7,94,47,2.2,2.5,4.5,4.7,6.8,6.9C122.9,129.8,137.1,119.5,152.8,115.8Z"/>
+        <path id="Path_363" data-name="Path 363" class="cls-4" d="M215.1,166.1a107.8,107.8,0,0,0,7.9-20.7c-7.6-14-27.7-39.5-70.2-29.6-15.8,3.7-29.9,14-42.2,26.9C142.6,172.4,181.4,173.9,215.1,166.1Z"/>
+      </g>
+      <circle id="Ellipse_173" data-name="Ellipse 173" class="cls-5" cx="105.8" cy="105.8" r="105.8" transform="translate(10.8 10.8)"/>
+      <path id="Path_364" data-name="Path 364" class="cls-6" d="M175.9,38.6c9.8,8.6,18.4,37.6,13.3,43.4s-13.8-14.7-23.5-23.3-26.9-13.5-21.8-19.3S166.1,30,175.9,38.6Z"/>
+    </g>
+    <path id="Path_365" data-name="Path 365" class="cls-7" d="M199,140.4l.2-51.3L225,84.5a112.938,112.938,0,1,0,.3,63.5Z"/>
+    <path id="Path_366" data-name="Path 366" class="cls-7" d="M199,140.4l26.3,7.6a114.271,114.271,0,0,0-.2-63.5L199.2,89Z"/>
+  </g>
+</svg>
